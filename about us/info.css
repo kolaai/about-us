@@ -1,0 +1,30 @@
+#all{
+   display: inline;
+   flex-wrap: wrap;
+}
+
+.us{  
+    float: left;
+    width: 220px;
+    height: 300px;
+    margin: 90px;
+    margin-right: 80px;
+}
+
+#contact{
+    background-image: url("contact.jpg");
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-right: 80px;
+    margin-top: 350px;
+
+
+}
